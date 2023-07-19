@@ -36,6 +36,11 @@ const fuelTypes = [
         value: "Gasoline"
     },
     {
+        id: 8,
+        name: "Diesel",
+        value: "Diesel"
+    },
+    {
         id: 3,
         name: "Hybrid",
         value: "Hybrid"
